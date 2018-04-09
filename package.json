@@ -1,23 +1,19 @@
 {
-  "name": "3dps-full-stack-test",
-  "version": "1.0.0",
-  "description": "3dprintingsystems Full-stack Developer test -------------------------",
-  "main": "index.js",
+  "name": "reactjs-redux-expressjs-mongodb-on-nodejs-example",
+  "version": "0.0.1",
+  "description": "An example which uses \" ReactJS and Redux and ExpressJS and MongoDB on Node.JS\"",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "node ./server.js",
     "webpack": "webpack --config webpack/webpack.config.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://gitlab.com/zenyes/3dps-full-stack-test.git"
-  },
   "author": "ZhenyuWang",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/zenyes/3dps-full-stack-test/issues"
+    "url": "https://github.com/zenboss/ReactJS-Redux-ExpressJS-MongoDB-on-Node.JS-example/issues"
   },
-  "homepage": "https://gitlab.com/zenyes/3dps-full-stack-test#README",
+  "homepage": "https://github.com/zenboss/ReactJS-Redux-ExpressJS-MongoDB-on-Node.JS-example/blob/master/README.md",
   "dependencies": {
     "body-parser": "^1.18.2",
     "bootstrap": "^4.0.0",
