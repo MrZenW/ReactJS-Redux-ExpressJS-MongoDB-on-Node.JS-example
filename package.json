@@ -1,0 +1,48 @@
+{
+  "name": "3dps-full-stack-test",
+  "version": "1.0.0",
+  "description": "3dprintingsystems Full-stack Developer test -------------------------",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node ./server.js",
+    "webpack": "webpack --config webpack/webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/zenyes/3dps-full-stack-test.git"
+  },
+  "author": "ZhenyuWang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/zenyes/3dps-full-stack-test/issues"
+  },
+  "homepage": "https://gitlab.com/zenyes/3dps-full-stack-test#README",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bootstrap": "^4.0.0",
+    "express": "^4.16.3",
+    "material-ui": "^1.0.0-beta.40",
+    "material-ui-icons": "^1.0.0-beta.36",
+    "mongodb": "^3.0.5",
+    "mongoose": "^5.0.12",
+    "react": "^16.3.0",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.3.0",
+    "react-redux": "^5.0.7",
+    "redux": "^3.7.2",
+    "redux-promise": "^0.5.3",
+    "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "html-webpack-plugin": "^3.1.0",
+    "react-router-dom": "^4.2.2",
+    "redux-logger": "^3.0.6",
+    "webpack": "^4.4.1",
+    "webpack-cli": "^2.0.13"
+  }
+}
