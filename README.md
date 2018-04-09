@@ -1,4 +1,4 @@
-An example which use " ReactJS and Redux and ExpressJS and MongoDB on Node.JS"
+An example which uses " ReactJS and Redux and ExpressJS and MongoDB on Node.JS"
 -------------------------
 
 ## HOW TO INSTALL
