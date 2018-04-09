@@ -4,7 +4,7 @@ An example which uses " ReactJS and Redux and ExpressJS and MongoDB on Node.JS"
 ## HOW TO INSTALL
 Using npm you can install the demo project very easy. Any problem please contact me at [zenyes@gmailcom](mailto:zenyes@gmailcom)
 
-## Environment
+## Environment
 
 Frist of all, you need to install [Node.JS](http://www.nodejs.org) and [NPMJS](http://www.npmjs.org) and [MongoDB](http://www.mongodb.com).
 
